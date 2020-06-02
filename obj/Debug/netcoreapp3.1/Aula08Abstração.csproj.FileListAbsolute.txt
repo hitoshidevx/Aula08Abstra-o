@@ -1,0 +1,13 @@
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula08Abstração\bin\Debug\netcoreapp3.1\Aula08Abstração.exe
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula08Abstração\bin\Debug\netcoreapp3.1\Aula08Abstração.deps.json
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula08Abstração\bin\Debug\netcoreapp3.1\Aula08Abstração.runtimeconfig.json
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula08Abstração\bin\Debug\netcoreapp3.1\Aula08Abstração.runtimeconfig.dev.json
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula08Abstração\bin\Debug\netcoreapp3.1\Aula08Abstração.dll
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula08Abstração\bin\Debug\netcoreapp3.1\Aula08Abstração.pdb
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula08Abstração\obj\Debug\netcoreapp3.1\Aula08Abstração.csprojAssemblyReference.cache
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula08Abstração\obj\Debug\netcoreapp3.1\Aula08Abstração.csproj.CoreCompileInputs.cache
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula08Abstração\obj\Debug\netcoreapp3.1\Aula08Abstração.AssemblyInfoInputs.cache
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula08Abstração\obj\Debug\netcoreapp3.1\Aula08Abstração.AssemblyInfo.cs
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula08Abstração\obj\Debug\netcoreapp3.1\Aula08Abstração.dll
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula08Abstração\obj\Debug\netcoreapp3.1\Aula08Abstração.pdb
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula08Abstração\obj\Debug\netcoreapp3.1\Aula08Abstração.genruntimeconfig.cache
